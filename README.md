@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/yohaniapareciopilares12-boop/herramientas@main/miku.gif" alt="Miku en el escritorio" width="100%" style="max-width:800px; border-radius:16px;" />
+  <img src="https://raw.githubusercontent.com/yohaniapareciopilares12-boop/herramientas/main/miku.gif" alt="Miku en el escritorio" width="100%" style="max-width:800px; border-radius:16px;" />
   <br>
   <sub><i>✨ Miku flotando sobre tus aplicaciones en Windows ✨</i></sub>
 </div>
