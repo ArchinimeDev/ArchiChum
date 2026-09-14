@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/VERSIÓN-0.1.0--beta-ff6b9d?style=for-the-badge&labelColor=0b1020" />
   <img src="https://img.shields.io/badge/ESTADO-EN_DESARROLLO-a55eea?style=for-the-badge&labelColor=0b1020" />
   <img src="https://img.shields.io/badge/PLATAFORMA-WINDOWS-39c5bb?style=for-the-badge&logo=windows&logoColor=white&labelColor=0b1020" />
-  <img src="https://img.shields.io/badge/LICENCIA-PROPIETARIA-ff9dbb?style=for-the-badge&labelColor=0b1020" />
 
   <br><br>
 
@@ -296,7 +295,6 @@ ArchiChum/
 ├── 📄 miku.ico                # Icono de la app
 ├── 📄 icon.png                # Icono de la bandeja
 ├── 📄 README.md               # Este archivo
-├── 📄 LICENSE                 # Licencia propietaria
 │
 └── 📁 renderer/
     ├── 📄 index.html          # Interfaz principal
@@ -423,31 +421,6 @@ Dale una **estrella** al repositorio. Ayuda muchísimo 💜
 </table>
 
 </div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a55eea,100:39c5bb&height=3&width=1200" width="100%" />
-
-## 📜 Licencia
-
-```
-Copyright (c) 2025 ArchinimeDev
-Todos los derechos reservados.
-```
-
-Este software se distribuye como **aplicación ejecutable de uso personal**.
-
-**NO se permite:**
-- ❌ Copiar o redistribuir el código fuente
-- ❌ Modificar o crear trabajos derivados
-- ❌ Realizar ingeniería inversa
-- ❌ Uso comercial sin autorización
-
-**SÍ se permite:**
-- ✅ Descargar y usar la app en tu PC
-- ✅ Compartir el link oficial de descarga
-
-Ver [LICENSE](LICENSE) para el texto completo.
 
 ---
 
