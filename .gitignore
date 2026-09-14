@@ -1,0 +1,21 @@
+# Dependencias de Node
+node_modules/
+
+# Archivos de build y empaquetado
+dist/
+release/
+*.exe
+*.blockmap
+
+# Archivos de entorno
+.env
+.env.local
+
+# Logs de npm y yarn
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
