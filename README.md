@@ -141,6 +141,91 @@ siguiente_hito: "Multi-personaje + IA conversacional"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b9d,100:39c5bb&height=3&width=1200" width="100%" />
 
+## 🎨 Créditos y Herramientas
+
+**Este proyecto no se construyó de cero.** Aquí reconozco las herramientas y recursos que hicieron posible a Miku:
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<br>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+<br><br>
+<b>Modelado 3D y Rigging</b>
+<br>
+<sub>Modelo base, ajustes de malla, huesos y exportación a GLB</sub>
+<br><br>
+</td>
+<td align="center" width="33%">
+<br>
+<img src="https://img.shields.io/badge/Mixamo-7B2FBE?style=for-the-badge&logo=adobe&logoColor=white" />
+<br><br>
+<b>Animaciones</b>
+<br>
+<sub>Biblioteca de animaciones de Adobe Mixamo<br>(saludo, idle, poses)</sub>
+<br><br>
+</td>
+<td align="center" width="33%">
+<br>
+<img src="https://img.shields.io/badge/Live2D-00C2FF?style=for-the-badge&logo=live2d&logoColor=white" />
+<br><br>
+<b>Renderizado 2D</b>
+<br>
+<sub>Sistema de animación fluida<br>estilo VTuber para el personaje</sub>
+<br><br>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<br>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+<br><br>
+<b>Motor 3D</b>
+<br>
+<sub>Renderizado en tiempo real<br>dentro de Electron</sub>
+<br><br>
+</td>
+<td align="center" width="33%">
+<br>
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+<br><br>
+<b>Aplicación de escritorio</b>
+<br>
+<sub>Ventana transparente flotante<br>con overlay sobre otras apps</sub>
+<br><br>
+</td>
+<td align="center" width="33%">
+<br>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<br><br>
+<b>Distribución</b>
+<br>
+<sub>Alojamiento del proyecto<br>y releases públicos</sub>
+<br><br>
+</td>
+</tr>
+</table>
+
+</div>
+
+### 📝 Nota sobre el uso de herramientas
+
+> El modelo de Miku fue trabajado en **Blender** para ajustar la malla, el rigging y la exportación a formato GLB. Las animaciones base provienen de **Mixamo** (Adobe) y fueron adaptadas al esqueleto del modelo. Todo el código de la app (Electron + Three.js), la lógica, la interfaz y el sistema de interacción fueron desarrollados por mí desde cero.
+
+### 🙏 Agradecimientos
+
+- **Blender Foundation** — por la herramienta 3D open source más poderosa
+- **Adobe Mixamo** — por su biblioteca gratuita de animaciones
+- **Three.js community** — por el motor de renderizado web
+- **Electron team** — por hacer posible apps de escritorio con web tech
+- **Todos los que probaron la beta** y dieron su feedback 💜
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b9d,100:39c5bb&height=3&width=1200" width="100%" />
+
 ## 📥 Descarga e Instalación
 
 ### 🎁 Opción 1 — Instalador (recomendado)
